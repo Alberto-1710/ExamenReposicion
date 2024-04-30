@@ -33,5 +33,7 @@
             </tr>
             @endforeach
         </tbody>
+    </table>
+    <a href="{{ route('home') }}" class="btn btn-success">Pagina de Inicio</a>
 </body>
 </html>
